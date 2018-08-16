@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         TagPro Respawn Pizzas
-// @description  Take over the world
+// @description  Replace Respawn Warnings by a "growing pizza animation" to know exactly when the respawn happens!
 // @author       Ko
-// @version      1.0
+// @version      1.1
 // @include      *.koalabeast.com*
 // @include      *.jukejuice.com*
 // @include      *.newcompte.fr*
